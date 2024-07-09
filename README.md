@@ -1,4 +1,4 @@
-# ITI Lab
+# ITI Digital IC Summer Cammp Labs
 
 ## Lab 1
 
@@ -41,3 +41,39 @@
 - Consider A and B to be 3 bits each.
 - Operations are synchronized with the clock signal.
 - Use a testbench to verify your design.
+
+  
+---
+
+## Lab 2
+
+#### 1. Binary to Gray Code Converter
+- Write Verilog code to convert from binary to gray.
+- Write a testbench to test your design.
+
+#### 2. 4-bit PISO (Parallel to Serial)
+- Implement Verilog code for a 4-bit PISO (parallel to serial).
+- Write a testbench to check the results.
+
+#### 3. 4-bit SIPO (Serial to Parallel)
+- Implement Verilog code for a 4-bit SIPO (serial to parallel).
+- Write a testbench to check the results.
+
+#### 4. State Machine Implementation
+- Write Verilog code that implements the given state machine.
+
+#### 5. Sequence Detector
+- Write code for the sequence detector using two different methods: code style and Mealy machine.
+- Sequence to detect: 10110101.
+
+#### 6. Clock Divider by (2, 4, 8, 16)
+- Write a clock divider with four outputs for divisions by 2, 4, 8, and 16.
+
+#### 7. Clock Divider by 3
+- Write a clock divider by 3 using two different methods.
+
+#### 8. Clock Divider by 6
+- Write a clock divider by 6.
+
+#### 9. Synchronous FIFO
+- Write a synchronous FIFO with `data_width=32` and `Depth=8`.
