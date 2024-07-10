@@ -77,3 +77,14 @@
 
 #### 9. Synchronous FIFO
 - Write a synchronous FIFO with `data_width=32` and `Depth=8`.
+
+
+---
+
+## Bonus Problem
+
+### Asynchronous FIFO Design
+
+#### Problem Statement
+Assume you have two systems, A and B, that operate on different clock domains (`clkA` and `clkB`). System A operates at a frequency of 80 MHz, and System B operates at a frequency of 50 MHz. The number of data items to be transferred between the two systems is 120. Determine the required FIFO depth and design an asynchronous FIFO to solve this problem.
+
