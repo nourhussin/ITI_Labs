@@ -1,4 +1,4 @@
-module synchronizer #(parameter width = 3) (
+module synchronizer #(parameter width = 6) (
     
     input wire clk, resetn, 
     input wire [width:0] d_in, 
