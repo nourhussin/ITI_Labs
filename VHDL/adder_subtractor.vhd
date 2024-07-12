@@ -35,9 +35,9 @@ BEGIN
 	 
     BEGIN
         IF Mode = '1' THEN
-            Sum := ('0' & A) + ('0' & B);
-        ELSE
             Sum := ('0' & A) - ('0' & B);
+        ELSE
+            Sum := ('0' & A) + ('0' & B);
         END IF;
 		  
         S <= Sum(3 DOWNTO 0);
