@@ -88,3 +88,18 @@
 #### Problem Statement
 Assume you have two systems, A and B, that operate on different clock domains (`clkA` and `clkB`). System A operates at a frequency of 80 MHz, and System B operates at a frequency of 50 MHz. The number of data items to be transferred between the two systems is 120. Determine the required FIFO depth and design an asynchronous FIFO to solve this problem.
 
+---
+
+## VHDL LAB 1
+
+### Problem Statement
+Implement a 4-bit binary adder-subtractor circuit using VHDL. The circuit should have two 4-bit inputs (A and B) and a mode input (M) to select between addition (M=0) and subtraction (M=1). The output should be a 4-bit result (S) and a carry-out (Cout).
+
+### Requirements
+- Implement three different solutions for the problem using VHDL architectures:
+  1. Behavioral
+  2. Dataflow
+  3. Structural
+- Write a test bench for each architecture.
+  - The test bench should read input test cases from a file and write the output to an output file.
+  - Format for the output file: `in1=..., in2=..., Time=..., out=...`
