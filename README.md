@@ -103,3 +103,60 @@ Implement a 4-bit binary adder-subtractor circuit using VHDL. The circuit should
 - Write a test bench for each architecture.
   - The test bench should read input test cases from a file and write the output to an output file.
   - Format for the output file: `in1=..., in2=..., Time=..., out=...`
+
+---
+
+## Python Lab 1
+
+### Task 1: Convert Integer to Binary
+Write a program that prompts the user to enter an integer number and converts it to its binary representation without stopping after conversion.
+
+### Task 2: Compute Gross Pay
+Write a program that takes user input for hours worked and rate per hour to compute the gross pay.
+
+### Task 3: Arithmetic Operations
+Write a program to perform addition and multiplication on the pair (3, 5) in three cases: integer, float, and string. Display the result and its type. Note: For string multiplication, use one string and one integer.
+
+### Task 4: Calculate Grade
+Write a program to calculate the grade based on the user's input score:
+- 100-85: A
+- 85-75: B
+- 75-65: C
+- 65-60: D
+- Less than 60: F
+
+### Task 5: Compute Pay with Overtime
+Write a program to compute pay where employees receive 1.5 times the hourly rate for hours worked above 40 hours.
+
+### Task 6: Classify Employee
+Write a program using nested if statements to classify employees based on GPA and experience:
+- Manager (GPA > 3.8 && Master && MBA && Experience > +15)
+- Staff_senior (GPA > 3.6 && Master && 15 >= Experience > 10)
+- Senior (GPA > 3.6 && 10 >= Experience > 5)
+- TeamleaderSenior (GPA > 3.4 && 10 >= Experience > 3)
+- Standard (GPA > 3 && Experience > 1)
+- Junior (GPA > 2.5 && Experience < 1)
+
+### Task 7: Validate User Input
+Write a program that prompts the user to enter a number between 1.5 and 150. If the number is outside this range, display an error and prompt for another number.
+
+### Task 8: Finding the Average
+Write a program that calculates the average of a list [10, 20, 30, 40, 50, 60] and displays both the average and its approximate result.
+
+### Task 9: Filtering Values
+Write a program to filter values greater than 20 from a list [9, 41, 12, 3, 74, 15] and print them.
+
+### Task 10: Finding the Smallest Value
+Write a program that finds and prints the smallest value in a list [9, 41, 12, 3, 74, 15].
+
+### Task 11: Print Words from Sentence
+Write a program that takes a sentence from the user and prints each word separately.
+
+### Task 12: Manipulate String
+Using String = “0123456789”, write a program to print the following:
+- "02468"
+- "13579"
+- "0369"
+- "9876543210"
+
+---
