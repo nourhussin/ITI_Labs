@@ -160,3 +160,29 @@ Using String = “0123456789”, write a program to print the following:
 - "9876543210"
 
 ---
+
+## Python Lab 2
+
+### 1. Implement Hangman Game
+
+#### Requirements:
+- **Word Check**:
+  - The user selects a random word to be guessed, for example, "banana".
+- **User Input**:
+  - The user can enter only 6 attempts.
+  - Special characters are not allowed and should be refused.
+  - The program accepts characters regardless of case sensitivity.
+  - The program does not decrease the attempt count for repeated correct characters.
+  
+### 2. ATM System Program
+
+### 3. System Company Processes with Lists
+
+#### Implement Processes:
+- Add Employee (`name`, `salary`, `department`, `ID`).
+- Search Employee by Name.
+- Delete Employee.
+- Show all Employees.
+- Quit.
+
+### 4. System Company Processes with Dictionaries
