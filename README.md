@@ -186,3 +186,25 @@ Using String = “0123456789”, write a program to print the following:
 - Quit.
 
 ### 4. System Company Processes with Dictionaries
+
+---
+
+## TCL Lab 1
+
+### 1. **Basic Arithmetic Operations**
+   - Perform addition, subtraction, multiplication, division, exponentiation, remainder, shift left, and shift right.
+
+### 2. **Conditional Operators and IF...ELSE**
+   - Compare two randomly generated values using IF...ELSE conditions.
+
+### 3. **SWITCH and IF...ELSEIF**
+   - Evaluate employee performance (Excellent, Very Good, Good, Up Normal, Normal, Bad) using SWITCH and IF...ELSEIF.
+
+### 4. **FOR Loop Calculations**
+   - Calculate and display square root, square, and cubic values for 16, 25, 36, and 49.
+
+### 5. **WHILE Loop for Multiples of 7**
+- Display multiples of 7, skip the fourth multiple and break at the tenth multiple.
+
+### 6. **FOREACH Loop for List Operations**
+- Display the square of each number within the range of 0 to 10.
