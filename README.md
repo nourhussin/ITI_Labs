@@ -208,3 +208,55 @@ Using String = “0123456789”, write a program to print the following:
 
 ### 6. **FOREACH Loop for List Operations**
 - Display the square of each number within the range of 0 to 10.
+
+  ---
+
+## TCL Lab 2
+
+### 1. Compare Between 2 Names
+
+Compare the names **Samy** and **Sayed** by two different methods:
+- "lexicographically": Alphabetical order of their characters.
+
+### 2. Deal with a Line
+
+From the line `"DIC Intake 43"`, get the index (1) and deal with the line as a string and a list.
+
+### 3. Get Range and Calculate Length
+
+Get the range `0 1` from `"DIC Intake 43"` and calculate the length of this range to deal with the string and list.
+
+### 4. Convert and Reverse String to List
+
+Write code to:
+1. Convert a string to a list.
+2. Reverse the list.
+
+### 5. Procedure to Replace and Insert Elements
+
+Build a procedure to replace and insert new elements in a list.
+
+### 6. Arithmetic Operations Procedure
+
+Write a procedure to:
+1. Display addition, subtraction, and multiplication of two variables.
+2. Return the value of the division from the procedure.
+
+### 7. Convert List to List of Lists
+
+Convert the list `{0 0 1 1 2 2 3 3}` to a list of lists by different methods.
+
+### 8. Synthesize a Report File
+
+Write code to:
+1. Search for the words `"setup"` and `"slack"` within a file.
+2. Print the lines containing these words.
+3. Increment the line count as you write to the file.
+
+### 9. Read and Handle Input File
+
+Read `"Input_File.txt"` and handle this file to write a new file `"File_Handled.txt"`. Consider the following:
+
+1. After all identifiers except `"Employee:"` (like `Name:`, `Grade:`, etc.), there are 15 characters to read.
+2. Use string manipulation or list manipulation to handle this file.
+
