@@ -1,0 +1,20 @@
+--------------Employee 1--------------
+Name:Ahmed      
+University:AUC  	    
+Current_Salary:1500  
+Grade:A+        
+--------------Employee 2--------------
+Name:Haitm      
+University:Assuit    
+Current_Salary:2000  
+Grade:B         
+--------------Employee 3--------------
+Name:Mohamed    
+University:BUE  	    
+Current_Salary:2000  
+Grade:B         
+--------------Employee 4--------------
+Name:Moumen     
+University:Cairo     
+Current_Salary:1000  
+Grade:C         
